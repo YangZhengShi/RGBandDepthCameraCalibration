@@ -1,6 +1,9 @@
 #ifndef TIMER_HEADER
 #define TIMER_HEADER
 
+/// Timer Class
+//By YangZhengshi
+// Time:2021 06 26
 #include <chrono>
 #include <ctime>
 
